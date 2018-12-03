@@ -1,0 +1,15 @@
+{
+  "name": "nobug",
+  "version": "1.0.0",
+  "description": "Focus on bug handling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bug",
+    "nobug"
+  ],
+  "author": "wujun (961447393@qq.com)",
+  "license": "ISC"
+}
